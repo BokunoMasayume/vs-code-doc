@@ -1,0 +1,4 @@
+- .vscode
+  - launch.json : 调试器的各种配置，包含调试器的路径，自定vscode debugging 中调试器名称，被调试程序路径，调试时传递的参数等
+  - tasks.json : 编译器的各种配置，相当于拆分写一个编译命令；设置vscode对编译命令返回结果的显示方式等
+  - c_cpp_properties.json : 编译器的路径和信息，外部库的路径等
